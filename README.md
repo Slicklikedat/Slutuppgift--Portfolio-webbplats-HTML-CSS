@@ -4,16 +4,16 @@
 
 ### Den är främst gjord för min lärare och klasskamrater men i framtiden kan den utvecklas för att användas för att demostrera projekt och kunskaper.
 
-* Koden jag skriver följer rätt struktur och semantik
-* Sidan innehåller design med flexbox och CSS grid
+* Koden jag skriver följer rätt struktur och semantik i html kod.
+* Sidan innehåller design med flexbox och CSS grid.
 * Den är responsiv beroende på storleken av skärmen man använder för att titta på sidan.
 * Sidan har passande radavstånd och färg kontrast.
 * En enkel kontakt-sida.
-* Publicerad med Netlify
-* Ingen död kod eller brutna länkar
-* Logisk mappstruktur (/styles, /assets)
-* optimerade bilder.
-* All kod är med https://validator.w3.org/
+* Publicerad med Netlify.
+* Ingen död kod eller brutna länkar.
+* Logisk mappstruktur (/styles, /assets).
+* Optimerade bilder.
+* All kod är validerad med https://validator.w3.org/.
 
 Webbplatsen består av tre HTML-sidor:
 
