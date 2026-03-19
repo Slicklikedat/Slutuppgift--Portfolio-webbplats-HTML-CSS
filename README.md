@@ -26,3 +26,10 @@ Webbplatsen består av tre HTML-sidor:
 
 
 länk till sidan: https://slutuppgift-portfolio-webbplats.netlify.app/site/
+
+
+### Kända brister/”att-göra”
+
+Jag har inte fyllt texterna med mycket nyttig information eftersom att jag i dagsläget använder sidan för att demostrera mina kunskaper och inte en verklig sida att visa mina projekt med.
+
+Jag har bara sökt igenom den färdiga sidans design själv och har inte testat hur den kan göras finare tillsammans med andra för att kunna hitta mer optimala designer som skulle kunna användas.
